@@ -2,7 +2,7 @@
 
 This is a simple test of CSS Container Queries
 
-Demo : https://vercel.com/erwanjugand/css-container-queries
+Demo : https://css-container-queries.vercel.app/
 
 # Required
 
