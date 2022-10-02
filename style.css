@@ -6,7 +6,7 @@
 }
 
 .post {
-  contain: style layout inline-size;
+  container-type: inline-size;
 }
 
 .post__content {
